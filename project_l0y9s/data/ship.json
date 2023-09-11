@@ -1,0 +1,14 @@
+{
+    "currentWeight": 140,
+    "name": "Serba Prima",
+    "caughtFish": [
+        {
+            "species": "Tuna",
+            "weight": 100
+        },
+        {
+            "species": "Albacore",
+            "weight": 40
+        }
+    ]
+}
